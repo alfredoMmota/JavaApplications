@@ -4,10 +4,10 @@ public class Logica {
 
 	private int x;
 	private int y;
-	private int[][] pos;
-	
+	private int[10][10] pos;
+
 	public Logica() {
-		
+
 	}
 
 	public Logica(int pos1, int pos2) {
