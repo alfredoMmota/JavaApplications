@@ -4,6 +4,7 @@ public class Logica {
 
 	private int x;
 	private int y;
+	private int h;
 	private int[10][10] pos;
 
 	public Logica() {
